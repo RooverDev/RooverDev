@@ -1,5 +1,5 @@
 
-# Pedro <img style="width: 30px;" src="up-emoji.png">
+# Pedro Abad <img style="width: 30px;" src="up-emoji.png">
  - HTML/CSS
 ## Aprendiendo
  - Javascript
